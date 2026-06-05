@@ -1,0 +1,13 @@
+.DS_Store
+build/
+cmake-build-*/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+*.xcuserstate
+DerivedData/
+*.component/
+*.vst3/
+*.aaxplugin/
+*.dSYM/
+*.log
